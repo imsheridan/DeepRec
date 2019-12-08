@@ -1,7 +1,7 @@
 # 深度推荐系统与CTR预估相关论文、业界分享
 动态更新推荐、广告工业界经典以及最前沿的论文、业界分享集合。所有资料均整理来自于互联网，如有侵权，请联系小助手deepdeliver。同时欢迎对推荐、广告方面工业界感兴趣的小伙伴加群交流：
 <div align=left>
-<img width="100" src="deepdeliver_group.png" alt="交流群"/>
+<img width="200" src="deepdeliver_group.png" alt="交流群"/>
 </div>
 
 ### 其他相关资源
@@ -11,7 +11,7 @@
 ### 论文脉络
 
 <div align=center>
-<img width="500" src="deeprec_paper_structure.jpg" alt="交流群"/>
+<img src="deeprec_paper_structure.jpg" alt="脉络图"/>
 </div>
 
 # 目录
