@@ -15,6 +15,7 @@
 </div>
 
 # 目录
+
 ## CTR
 * [[FiBiNET][RecSys 19][Weibo] FiBiNET_Combining Feature Importance and Bilinear feature Interaction for Click-Through Rate Prediction]()
 * [[DSIN][IJCAI 19][Alibaba] Deep Session Interest Network for Click-Through Rate Prediction]()
@@ -30,3 +31,25 @@
 * [[DeepFM][IJCAI 17][Huawei] DeepFM_A Factorization-Machine based Neural Network for CTR Prediction]()
 * [[NFM][SIGIR 17] Neural Factorization Machines for Sparse Predictive Analytics]()
 * [[WDL][DLRS 16][Google] Wide & Deep Learning for Recommender Systems]()
+
+## Match
+* [[SDM][CIKM 19][Alibaba] Sequential Deep Matching Model for Online Large-scale Recommender System]()
+* [[NCF][WWW 17] Neural Collaborative Filtering]()
+* [[YoutubeDNN][RecSys 16][Google] Deep Neural Networks for YouTube Recommendations]()
+* [[DSSM][CIKM 13][Microsoft] Learning Deep Structured Semantic Models for Web Search using Clickthrough Data]()
+
+## MTL
+* [[MMoE][KDD 18][Google] Modeling Task Relationships in Multi-task Learning with Multi-gate Mixture-of-Experts]()
+* [[ESMM][SIGIR 18][Alibaba] Entire Space Multi-Task Model_An Effective Approach for Estimating Post-Click Conversion Rate]()
+
+## Diversity
+* [[CIKM 18][Google] Practical Diversified Recommendations on YouTube with Determinantal Point Processes]()
+* [[NeurIPS 18][Hulu] Fast Greedy MAP Inference for Determinantal Point Process to Improve Recommendation Diversity]()
+
+## EE
+* [[LinUCB][WWW 10][Yahoo] A Contextual-Bandit Approach to Personalized News Article Recommendation]()
+
+## RL
+* [[IJCAI 19][Google] Reinforcement Learning for Slate-based Recommender Systems_A Tractable Decomposition and Practical Methodology]()
+* [[WSDM 19][Google] Top-K Off-Policy Correction for a REINFORCE Recommender System]()
+* [[DRN][WWW 18][Microsoft] DRN_A Deep Reinforcement Learning Framework for News Recommendation]()
