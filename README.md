@@ -1,4 +1,4 @@
-# 深度推荐系统与CTR预估相关论文、业界分享
+# 深度推荐系统与CTR预估工业界相关论文、业界分享
 动态更新推荐、广告工业界经典以及最前沿的论文、业界分享集合。所有资料均整理来自于互联网，如有侵权，请联系小助手deepdeliver。同时欢迎对推荐、广告方面工业界感兴趣的小伙伴加群交流：
 <div align=left>
 <img width="200" src="deepdeliver_group.png" alt="交流群"/>
@@ -37,6 +37,11 @@
 * [[NCF][WWW 17] Neural Collaborative Filtering]()
 * [[YoutubeDNN][RecSys 16][Google] Deep Neural Networks for YouTube Recommendations]()
 * [[DSSM][CIKM 13][Microsoft] Learning Deep Structured Semantic Models for Web Search using Clickthrough Data]()
+
+## Ranking
+* [[PRM][RecSys 19][Alibaba] Personalized Re-ranking for Recommendation]()
+* [[BERT4Rec][CIKM 19][Alibaba] BERT4Rec_Sequential Recommendation with Bidirectional Encoder Representations from Transformer]()
+* [[BST][DLP-KDD 19][Alibaba] Behavior Sequence Transformer for E-commerce Recommendation in Alibaba]()
 
 ## MTL
 * [[MMoE][KDD 18][Google] Modeling Task Relationships in Multi-task Learning with Multi-gate Mixture-of-Experts]()
