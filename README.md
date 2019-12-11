@@ -43,6 +43,9 @@
 * [[BERT4Rec][CIKM 19][Alibaba] BERT4Rec_Sequential Recommendation with Bidirectional Encoder Representations from Transformer](https://github.com/imsheridan/DeepRec/blob/master/Ranking/%5BBERT4Rec%5D%5BCIKM%2019%5D%5BAlibaba%5D%20BERT4Rec_Sequential%20Recommendation%20with%20Bidirectional%20Encoder%20Representations%20from%20Transformer.pdf)
 * [[BST][DLP-KDD 19][Alibaba] Behavior Sequence Transformer for E-commerce Recommendation in Alibaba](https://github.com/imsheridan/DeepRec/blob/master/Ranking/%5BBST%5D%5BDLP-KDD%2019%5D%5BAlibaba%5D%20Behavior%20Sequence%20Transformer%20for%20E-commerce%20Recommendation%20in%20Alibaba.pdf)
 
+## Embedding
+
+
 ## MTL
 * [[MMoE][KDD 18][Google] Modeling Task Relationships in Multi-task Learning with Multi-gate Mixture-of-Experts](https://github.com/imsheridan/DeepRec/blob/master/MTL/%5BMMoE%5D%5BKDD%2018%5D%5BGoogle%5D%20Modeling%20Task%20Relationships%20in%20Multi-task%20Learning%20with%20Multi-gate%20Mixture-of-Experts.pdf)
 * [[ESMM][SIGIR 18][Alibaba] Entire Space Multi-Task Model_An Effective Approach for Estimating Post-Click Conversion Rate](https://github.com/imsheridan/DeepRec/blob/master/MTL/%5BESMM%5D%5BSIGIR%2018%5D%5BAlibaba%5D%20Entire%20Space%20Multi-Task%20Model_An%20Effective%20Approach%20for%20Estimating%20Post-Click%20Conversion%20Rate.pdf)
