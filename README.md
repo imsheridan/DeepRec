@@ -44,7 +44,15 @@
 * [[BST][DLP-KDD 19][Alibaba] Behavior Sequence Transformer for E-commerce Recommendation in Alibaba](https://github.com/imsheridan/DeepRec/blob/master/Ranking/%5BBST%5D%5BDLP-KDD%2019%5D%5BAlibaba%5D%20Behavior%20Sequence%20Transformer%20for%20E-commerce%20Recommendation%20in%20Alibaba.pdf)
 
 ## Embedding
-
+* [[Airbnb Embedding][KDD 18][Airbnb] Real-time Personalization using Embeddings for Search Ranking at Airbnb](https://github.com/imsheridan/DeepRec/blob/master/Embedding/%5BAirbnb%20Embedding%5D%5BKDD%2018%5D%5BAirbnb%5D%20Real-time%20Personalization%20using%20Embeddings%20for%20Search%20Ranking%20at%20Airbnb.pdf)
+* [[Alibaba Embedding][KDD 18][Alibaba] Billion-scale Commodity Embedding for E-commerce Recommendation in Alibaba](https://github.com/imsheridan/DeepRec/blob/master/Embedding/%5BAlibaba%20Embedding%5D%5BKDD%2018%5D%5BAlibaba%5D%20Billion-scale%20Commodity%20Embedding%20for%20E-commerce%20Recommendation%20in%20Alibaba.pdf)
+* [[DeepWalk][KDD 14] DeepWalk- Online Learning of Social Representations](https://github.com/imsheridan/DeepRec/blob/master/Embedding/%5BDeepWalk%5D%5BKDD%2014%5D%20DeepWalk-%20Online%20Learning%20of%20Social%20Representations.pdf)
+* [[LINE][WWW 15][Microsoft] LINE_Large-scale Information Network Embedding](https://github.com/imsheridan/DeepRec/blob/master/Embedding/%5BLINE%5D%5BWWW%2015%5D%5BMicrosoft%5D%20LINE_Large-scale%20Information%20Network%20Embedding.pdf)
+* [[Node2vec][KDD 16] Node2vec_Scalable Feature Learning for Networks](https://github.com/imsheridan/DeepRec/blob/master/Embedding/%5BNode2vec%5D%5BKDD%2016%5D%20Node2vec_Scalable%20Feature%20Learning%20for%20Networks.pdf)
+* [[SDNE][KDD 16] Structural Deep Network Embedding](https://github.com/imsheridan/DeepRec/blob/master/Embedding/%5BSDNE%5D%5BKDD%2016%5D%20Structural%20Deep%20Network%20Embedding.pdf)
+* [[Struc2Vec][KDD 17]struc2vec_Learning Node Representations from Structural Identity](https://github.com/imsheridan/DeepRec/blob/master/Embedding/%5BStruc2Vec%5D%5BKDD%2017%5Dstruc2vec_Learning%20Node%20Representations%20from%20Structural%20Identity.pdf)
+* [[GraphSAGE][NIPS 17] Inductive Representation Learning on Large Graphs](https://github.com/imsheridan/DeepRec/blob/master/Embedding/%5BGraphSAGE%5D%5BNIPS%2017%5D%20Inductive%20Representation%20Learning%20on%20Large%20Graphs.pdf)
+* [[GCN][ICLR 17] Semi-supervised Classification with Graph Convolutional Networks](https://github.com/imsheridan/DeepRec/blob/master/Embedding/%5BGCN%5D%5BICLR%2017%5D%20Semi-supervised%20Classification%20with%20Graph%20Convolutional%20Networks.pdf)
 
 ## MTL
 * [[MMoE][KDD 18][Google] Modeling Task Relationships in Multi-task Learning with Multi-gate Mixture-of-Experts](https://github.com/imsheridan/DeepRec/blob/master/MTL/%5BMMoE%5D%5BKDD%2018%5D%5BGoogle%5D%20Modeling%20Task%20Relationships%20in%20Multi-task%20Learning%20with%20Multi-gate%20Mixture-of-Experts.pdf)
