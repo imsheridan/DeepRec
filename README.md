@@ -55,6 +55,7 @@
 * [[GCN][ICLR 17] Semi-supervised Classification with Graph Convolutional Networks](https://github.com/imsheridan/DeepRec/blob/master/Embedding/%5BGCN%5D%5BICLR%2017%5D%20Semi-supervised%20Classification%20with%20Graph%20Convolutional%20Networks.pdf)
 
 ## MTL
+* [[RecSys 19][Alibaba] A Pareto-Efficient Algorithm for Multiple Objective Optimization in E-Commerce Recommendation](https://github.com/imsheridan/DeepRec/blob/master/MTL/%5BRecSys%2019%5D%5BAlibaba%5D%20A%20Pareto-Efficient%20Algorithm%20for%20Multiple%20Objective%20Optimization%20in%20E-Commerce%20Recommendation.pdf)
 * [[MMoE][KDD 18][Google] Modeling Task Relationships in Multi-task Learning with Multi-gate Mixture-of-Experts](https://github.com/imsheridan/DeepRec/blob/master/MTL/%5BMMoE%5D%5BKDD%2018%5D%5BGoogle%5D%20Modeling%20Task%20Relationships%20in%20Multi-task%20Learning%20with%20Multi-gate%20Mixture-of-Experts.pdf)
 * [[ESMM][SIGIR 18][Alibaba] Entire Space Multi-Task Model_An Effective Approach for Estimating Post-Click Conversion Rate](https://github.com/imsheridan/DeepRec/blob/master/MTL/%5BESMM%5D%5BSIGIR%2018%5D%5BAlibaba%5D%20Entire%20Space%20Multi-Task%20Model_An%20Effective%20Approach%20for%20Estimating%20Post-Click%20Conversion%20Rate.pdf)
 
