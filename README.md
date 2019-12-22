@@ -33,6 +33,7 @@
 * [[WDL][DLRS 16][Google] Wide & Deep Learning for Recommender Systems](https://github.com/imsheridan/DeepRec/blob/master/CTR/%5BWDL%5D%5BDLRS%2016%5D%5BGoogle%5D%20Wide%20%26%20Deep%20Learning%20for%20Recommender%20Systems.pdf)
 
 ## Match
+* [[MIND][arxiv 19][Alibaba] Multi-Interest Network with Dynamic Routing for Recommendation at Tmall]()
 * [[SDM][CIKM 19][Alibaba] Sequential Deep Matching Model for Online Large-scale Recommender System](https://github.com/imsheridan/DeepRec/blob/master/Match/%5BSDM%5D%5BCIKM%2019%5D%5BAlibaba%5D%20Sequential%20Deep%20Matching%20Model%20for%20Online%20Large-scale%20Recommender%20System.pdf)
 * [[NCF][WWW 17] Neural Collaborative Filtering](https://github.com/imsheridan/DeepRec/blob/master/Match/%5BNCF%5D%5BWWW%2017%5D%20Neural%20Collaborative%20Filtering.pdf)
 * [[YoutubeDNN][RecSys 16][Google] Deep Neural Networks for YouTube Recommendations](https://github.com/imsheridan/DeepRec/blob/master/Match/%5BYoutubeDNN%5D%5BRecSys%2016%5D%5BGoogle%5D%20Deep%20Neural%20Networks%20for%20YouTube%20Recommendations.pdf)
