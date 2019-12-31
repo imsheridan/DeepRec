@@ -33,7 +33,10 @@
 * [[WDL][DLRS 16][Google] Wide & Deep Learning for Recommender Systems](https://github.com/imsheridan/DeepRec/blob/master/CTR/%5BWDL%5D%5BDLRS%2016%5D%5BGoogle%5D%20Wide%20%26%20Deep%20Learning%20for%20Recommender%20Systems.pdf)
 
 ## Match
+* [[JTM][NIPS 19] Joint Optimization of Tree-based Index and Deep Model for Recommender Systems](https://github.com/imsheridan/DeepRec/blob/master/Match/%5BJTM%5D%5BNIPS%2019%5D%20Joint%20Optimization%20of%20Tree-based%20Index%20and%20Deep%20Model%20for%20Recommender%20Systems.pdf)
+* [[MIND][arxiv 19][Alibaba] Multi-Interest Network with Dynamic Routing for Recommendation at Tmall](https://github.com/imsheridan/DeepRec/blob/master/Match/%5BMIND%5D%5Barxiv%2019%5D%5BAlibaba%5D%20Multi-Interest%20Network%20with%20Dynamic%20Routing%20for%20Recommendation%20at%20Tmall.pdf)
 * [[SDM][CIKM 19][Alibaba] Sequential Deep Matching Model for Online Large-scale Recommender System](https://github.com/imsheridan/DeepRec/blob/master/Match/%5BSDM%5D%5BCIKM%2019%5D%5BAlibaba%5D%20Sequential%20Deep%20Matching%20Model%20for%20Online%20Large-scale%20Recommender%20System.pdf)
+* [[TDM][KDD 18][Alibaba] Learning Tree-based Deep Model for Recommender Systems](https://github.com/imsheridan/DeepRec/blob/master/Match/%5BTDM%5D%5BKDD%2018%5D%5BAlibaba%5D%20Learning%20Tree-based%20Deep%20Model%20for%20Recommender%20Systems.pdf)
 * [[NCF][WWW 17] Neural Collaborative Filtering](https://github.com/imsheridan/DeepRec/blob/master/Match/%5BNCF%5D%5BWWW%2017%5D%20Neural%20Collaborative%20Filtering.pdf)
 * [[YoutubeDNN][RecSys 16][Google] Deep Neural Networks for YouTube Recommendations](https://github.com/imsheridan/DeepRec/blob/master/Match/%5BYoutubeDNN%5D%5BRecSys%2016%5D%5BGoogle%5D%20Deep%20Neural%20Networks%20for%20YouTube%20Recommendations.pdf)
 * [[DSSM][CIKM 13][Microsoft] Learning Deep Structured Semantic Models for Web Search using Clickthrough Data](https://github.com/imsheridan/DeepRec/blob/master/Match/%5BDSSM%5D%5BCIKM%2013%5D%5BMicrosoft%5D%20Learning%20Deep%20Structured%20Semantic%20Models%20for%20Web%20Search%20using%20Clickthrough%20Data.pdf)
