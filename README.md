@@ -1,8 +1,6 @@
 # 深度推荐系统与CTR预估工业界相关论文、业界分享
-动态更新推荐、广告工业界经典以及最前沿的论文、业界分享集合。所有资料均整理来自于互联网，如有侵权，请联系小助手deepdeliver。同时欢迎对推荐、广告方面工业界感兴趣的小伙伴添加小助手，将自动拉入交流群：
-<div align=left>
-<img width="200" src="avatar_wx.jpg" alt="交流群"/>
-</div>
+动态更新推荐、广告工业界经典以及最前沿的论文、业界分享集合。所有资料均整理来自于互联网。
+
 
 ### 其他相关资源
 * [王喆的推荐系统paper列表](https://github.com/wzhe06/Reco-papers)
@@ -73,3 +71,7 @@
 * [[IJCAI 19][Google] Reinforcement Learning for Slate-based Recommender Systems_A Tractable Decomposition and Practical Methodology](https://github.com/imsheridan/DeepRec/blob/master/RL/%5BIJCAI%2019%5D%5BGoogle%5D%20Reinforcement%20Learning%20for%20Slate-based%20Recommender%20Systems_A%20Tractable%20Decomposition%20and%20Practical%20Methodology.pdf)
 * [[WSDM 19][Google] Top-K Off-Policy Correction for a REINFORCE Recommender System](https://github.com/imsheridan/DeepRec/blob/master/RL/%5BWSDM%2019%5D%5BGoogle%5D%20Top-K%20Off-Policy%20Correction%20for%20a%20REINFORCE%20Recommender%20System.pdf)
 * [[DRN][WWW 18][Microsoft] DRN_A Deep Reinforcement Learning Framework for News Recommendation](https://github.com/imsheridan/DeepRec/blob/master/RL/%5BDRN%5D%5BWWW%2018%5D%5BMicrosoft%5D%20DRN_A%20Deep%20Reinforcement%20Learning%20Framework%20for%20News%20Recommendation.pdf)
+
+# Acknowledgment
+This repository is implemented based on [DeepRec](https://github.com/imsheridan/DeepRec). 
+
