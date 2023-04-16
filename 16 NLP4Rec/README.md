@@ -7,3 +7,5 @@ Recommendation and User Interests Interpretation](https://arxiv.org/pdf/2304.038
 Language Models](https://arxiv.org/pdf/2304.03153.pdf)
 - [PEPLER-arxiv23-Personalized Prompt Learning for Explainable
 Recommendation](https://arxiv.org/pdf/2202.07371.pdf)
+- [PLMRec-arxiv23-Pre-train, Prompt and Recommendation: A Comprehensive Survey of Language
+Modelling Paradigm Adaptations in Recommender Systems](https://arxiv.org/pdf/2302.03735.pdf)
