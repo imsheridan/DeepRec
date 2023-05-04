@@ -1,5 +1,5 @@
 # MTL
-- [AdaTT][Arxiv 23][Meta]AdaTT: Adaptive Task-to-Task Fusion Network for Multitask Learning in Recommendations
+- [[AdaTT][Arxiv 23][Meta]AdaTT: Adaptive Task-to-Task Fusion Network for Multitask Learning in Recommendations](https://arxiv.org/pdf/2304.04959.pdf)
 
 # some resources
 
