@@ -1,1 +1,1 @@
-
+- [[PTUPCDR][WSDM 22][Tencent]Personalized Transfer of User Preferences for Cross-domain Recommendation](https://arxiv.org/abs/2110.11154)
