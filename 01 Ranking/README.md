@@ -1,1 +1,1 @@
-
+- [[ATRank][AAAI 18][Alibaba]ATRank: An Attention-Based User Behavior Modeling Framework for Recommendation](https://arxiv.org/abs/1711.06632)
