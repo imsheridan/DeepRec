@@ -1,1 +1,2 @@
-
+- [[adv][Arxiv 23][Salesforce]Towards More Robust and Accurate Sequential Recommendation with Cascade-guided Adversarial Training](https://arxiv.org/abs/2304.05492)
+- 
