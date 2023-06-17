@@ -1,2 +1,3 @@
 - [[adv][Arxiv 23][Salesforce]Towards More Robust and Accurate Sequential Recommendation with Cascade-guided Adversarial Training](https://arxiv.org/abs/2304.05492)
+- [[DCRec][WWW 23][Tencent]Debiased Contrastive Learning for Sequential Recommendation](https://arxiv.org/abs/2303.11780)
 - [[MSM4SR][Arxiv 23][Alibaba]ultimodal Pre-training Framework for Sequential Recommendation via Contrastive Learning](https://arxiv.org/abs/2303.11879)
