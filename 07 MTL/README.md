@@ -1,5 +1,6 @@
 # MTL
 - [[AdaTT][Arxiv 23][Meta]AdaTT: Adaptive Task-to-Task Fusion Network for Multitask Learning in Recommendations](https://arxiv.org/pdf/2304.04959.pdf)
+- [[PEPNet][Arxiv 23][Kuaishou]PEPNet: Parameter and Embedding Personalized Network for Infusing with Personalized Prior Information](https://arxiv.org/pdf/2302.01115.pdf)
 
 # some resources
 
