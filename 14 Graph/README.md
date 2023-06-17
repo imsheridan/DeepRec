@@ -1,1 +1,2 @@
 - [[BM3][WWW 23][Alibaba]Bootstrap Latent Representations for Multi-modal Recommendation](https://arxiv.org/abs/2207.05969)
+- [[AutoCF][WWW 23][Tencent]Automated Self-Supervised Learning for Recommendation](https://arxiv.org/abs/2303.07797)
