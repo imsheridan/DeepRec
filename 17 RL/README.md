@@ -1,1 +1,2 @@
-
+- [[DT4Rec][WWW 23][Bai du]User Retention-oriented Recommendation with Decision Transformer](https://arxiv.org/pdf/2303.06347.pdf)
+- 
