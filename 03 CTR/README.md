@@ -8,3 +8,5 @@
 - [[DBPMaN][WWW 23][Mei tuan]A Deep Behavior Path Matching Network for Click-Through Rate Prediction](https://arxiv.org/abs/2302.00302)
 - [[AutoDenoise][WWW 23]AutoDenoise: Automatic Data Instance Denoising for Recommendations](https://arxiv.org/abs/2303.06611)
 - [[FAN][DASFAA 23][Alibaba]FAN: Fatigue-Aware Network for Click-Through Rate Prediction in E-commerce Recommendation](https://arxiv.org/abs/2304.04529)
+
+- [[Overfitting][CIKM22][Alibaba]Towards Understanding the Overfitting Phenomenon of Deep Click-Through Rate Prediction Models](https://arxiv.org/abs/2209.06053)
