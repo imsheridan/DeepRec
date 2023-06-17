@@ -5,3 +5,4 @@
 - [FinalMLP-AAAI23-HuaWei-FinalMLP: An Enhanced Two-Stream MLP Model for CTR Prediction](https://arxiv.org/abs/2304.00902) [code](https://github.com/xue-pai/FuxiCTR)
 - [[TSCAC][WWW 23][Kuai shou]Two-Stage Constrained Actor-Critic for Short Video Recommendation](https://arxiv.org/abs/2302.01680)
 - [[DBPMaN][WWW 23][Mei tuan]A Deep Behavior Path Matching Network for Click-Through Rate Prediction](https://arxiv.org/abs/2302.00302)
+- [[AutoDenoise][WWW 23]AutoDenoise: Automatic Data Instance Denoising for Recommendations](https://arxiv.org/abs/2303.06611)
