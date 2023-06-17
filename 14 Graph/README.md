@@ -1,1 +1,1 @@
-
+- [[BM3][WWW 23][Alibaba]Bootstrap Latent Representations for Multi-modal Recommendation](https://arxiv.org/abs/2207.05969)
