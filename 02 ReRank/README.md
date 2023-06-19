@@ -1,1 +1,1 @@
-
+- [[AutoIntent][SIGIR 22][Mei tuan]Automatically Discovering User Consumption Intents in Meituan](https://dl.acm.org/doi/pdf/10.1145/3534678.3539122)
