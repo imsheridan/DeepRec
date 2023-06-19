@@ -1,1 +1,3 @@
+- PreRanking
+    - [[AutoFAS][KDD 22][Mei tuan]AutoFAS: Automatic Feature and Architecture Selection for Pre-Ranking System](https://arxiv.org/abs/2205.09394)
 - [[ATRank][AAAI 18][Alibaba]ATRank: An Attention-Based User Behavior Modeling Framework for Recommendation](https://arxiv.org/abs/1711.06632)
