@@ -1,1 +1,1 @@
-
+- [[SASS][CIKM 22][Alibaba]Scenario-Adaptive and Self-Supervised Model for Multi-Scenario Personalized Recommendation](https://arxiv.org/abs/2208.11457)
