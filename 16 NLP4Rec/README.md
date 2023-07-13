@@ -11,6 +11,7 @@
 - [[ChatGPT][Arxiv 23][Alibaba]Is ChatGPT a Good Recommender? A Preliminary Study](https://arxiv.org/pdf/2304.10149.pdf)
 - [[FaiRLLM][Recsys 23]Is ChatGPT Fair for Recommendation? Evaluating Fairness in Large Language Model Recommendation](https://arxiv.org/pdf/2305.07609.pdf)
 - [[MINT][Recsys 23]Large Language Model Augmented Narrative Driven Recommendations](https://arxiv.org/abs/2306.02250)
-- 
+- [[GPTRec][SIGIR 23]Generative Sequential Recommendation with GPTRec](https://arxiv.org/abs/2306.11114)
+- [[ANN][Arxiv 23][Google]Recommender Systems with Generative Retrieval](https://arxiv.org/abs/2305.05065)
 ### Diffusion for Rec
 - [[DiffuRec][Arxiv 23]DiffuRec: A Diffusion Model for Sequential Recommendation](https://arxiv.org/abs/2304.00686)
