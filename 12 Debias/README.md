@@ -1,2 +1,3 @@
-# some resources
-- [Debias](https://mp.weixin.qq.com/s/ATZCKdUQe25mpgNwxqwHYg)
+- [[DB-VAE][Arxiv 23]Disentangled Variational Auto-encoder Enhanced by Counterfactual Data for Debiasing Recommendation](https://arxiv.org/abs/2306.15961)
+- some resources
+  - [Debias](https://mp.weixin.qq.com/s/ATZCKdUQe25mpgNwxqwHYg)
