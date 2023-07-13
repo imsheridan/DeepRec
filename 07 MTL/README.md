@@ -4,6 +4,7 @@
 - [[AdaTT][Arxiv 23][Meta]AdaTT: Adaptive Task-to-Task Fusion Network for Multitask Learning in Recommendations](https://arxiv.org/pdf/2304.04959.pdf)
 - [[PEPNet][Arxiv 23][Kuaishou]PEPNet: Parameter and Embedding Personalized Network for Infusing with Personalized Prior Information](https://arxiv.org/pdf/2302.01115.pdf)
 - [[STAN][Recsys 23][Shopee]STAN: Stage-Adaptive Network for Multi-Task Recommendation by Learning User Lifecycle-Based Representation](https://arxiv.org/abs/2306.12232)
+- [[ColdGPT][Recsys 23][salesforce]Multi-task Item-attribute Graph Pre-training for Strict Cold-start Item Recommendation](https://arxiv.org/pdf/2306.14462.pdf)
 
 # some resources
 
