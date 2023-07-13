@@ -7,6 +7,9 @@
 - [PEPLER-arxiv23-Personalized Prompt Learning for Explainable Recommendation](https://arxiv.org/pdf/2202.07371.pdf)
 - [PLMRec-arxiv23-Pre-train, Prompt and Recommendation: A Comprehensive Survey of Language Modelling Paradigm Adaptations in Recommender Systems](https://arxiv.org/pdf/2302.03735.pdf)
 - [[InstructRec][Arxiv 23][Tencent]Recommendation as Instruction Following: A Large Language Model Empowered Recommendation Approach](https://arxiv.org/abs/2305.07001)
+- [[LLM2ZeroShot][Arxiv 23][Tencent]Large Language Models are Zero-Shot Rankers for Recommender Systems](https://arxiv.org/abs/2305.08845)
 - [[ChatGPT][Arxiv 23][Alibaba]Is ChatGPT a Good Recommender? A Preliminary Study](https://arxiv.org/pdf/2304.10149.pdf)
+- [[FaiRLLM][Recsys 23]Is ChatGPT Fair for Recommendation? Evaluating Fairness in Large Language Model Recommendation](https://arxiv.org/pdf/2305.07609.pdf)
+- [[]]
 ### Diffusion for Rec
 - [[DiffuRec][Arxiv 23]DiffuRec: A Diffusion Model for Sequential Recommendation](https://arxiv.org/abs/2304.00686)
