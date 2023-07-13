@@ -6,3 +6,4 @@
 - [[FNAS][WWW 23][HUa Wei]FANS: Fast Non-Autoregressive Sequence Generation for Item List Continuation](https://arxiv.org/abs/2304.00545)
 - [[FPSR][WWW 23]Fine-tuning Partition-aware Item Similarities for Efficient and Scalable Recommendation](https://arxiv.org/abs/2207.05959)
 - [[APR][SIGIR 23][Wei Xin]Attacking Pre-trained Recommendation](https://arxiv.org/pdf/2305.03995.pdf)
+- [[DPVP][KDD 23][Mei Tuan]Modeling Dual Period-Varying Preferences for Takeaway Recommendation](https://arxiv.org/abs/2306.04370)
