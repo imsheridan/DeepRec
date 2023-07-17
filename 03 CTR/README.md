@@ -11,3 +11,4 @@
 - [[Overfitting][CIKM 22][Alibaba]Towards Understanding the Overfitting Phenomenon of Deep Click-Through Rate Prediction Models](https://arxiv.org/abs/2209.06053)
 - [[JRC][KDD 23][Alibaba]Joint Optimization of Ranking and Calibration with Contextualized Hybrid Model](https://arxiv.org/abs/2208.06164)
 - [[ContentCTR][CVPR 23][Kuai Shou]ContentCTR: Frame-level Live Streaming Click-Through Rate Prediction with Multimodal Transformer](https://arxiv.org/pdf/2306.14392.pdf)
+- [[CL4CVR][KDD 23][Alibaba]Contrastive Learning for Conversion Rate Prediction](https://arxiv.org/pdf/2307.05974.pdf)
