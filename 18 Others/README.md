@@ -13,6 +13,10 @@
 - Cross-Doman
   - [[CCTL][KDD 23][Mei Tuan]A Collaborative Transfer Learning Framework for Cross-domain Recommendation](https://arxiv.org/pdf/2306.16425.pdf)
   - [[CDCF][Arxiv 23]Cross-domain Recommender Systems via Multimodal Domain Adaptation](https://arxiv.org/pdf/2306.13887.pdf)
+- Social
+  - [[CSCR][KDD 23][Tencent]Constrained Social Community Recommendation](https://www.youtube.com/watch?v=b14qgetaXxs)
+
+
 - Search
   - [[(LRP-Bandit][KDD 23][Alibaba]Efficient Sparse Linear Bandits under High Dimensional Data](https://www.mcwei.com/Research/Lasso_RP_Bandit.pdf)
   - [[CCG][KDD 23]E-commerce Search via Content Collaborative Graph Neural Network](https://www.youtube.com/watch?v=AttOef4lecg)
