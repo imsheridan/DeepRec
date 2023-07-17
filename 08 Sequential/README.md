@@ -4,3 +4,4 @@
 - [[MSM4SR][Arxiv 23][Alibaba]ultimodal Pre-training Framework for Sequential Recommendation via Contrastive Learning](https://arxiv.org/abs/2303.11879)
 - [[ReSeq][Recsys 23][Boss Zhipin]Reciprocal Sequential Recommendation](https://arxiv.org/abs/2306.14712)
 - [[CT4Rec][KDD 23][Tencent/OPPO]CT4Rec: Simple yet Effective Consistency Training for Sequential Recommendation](https://www.youtube.com/watch?v=pX3aQRqDgy8)
+- [[KDD 23][Amazon]Text Is All You Need: Learning Language Representations for Sequential Recommendation](https://arxiv.org/abs/2305.13731)
