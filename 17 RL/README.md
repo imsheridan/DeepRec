@@ -1,2 +1,4 @@
-- [[DT4Rec][WWW 23][Bai du]User Retention-oriented Recommendation with Decision Transformer](https://arxiv.org/pdf/2303.06347.pdf)
+- [[DT4Rec][WWW 23][Bai Du]User Retention-oriented Recommendation with Decision Transformer](https://arxiv.org/pdf/2303.06347.pdf)
 - [[DAU][WWW 23][Kuai shou]Reinforcing User Retention in a Billion Scale Short Video Recommender System](https://arxiv.org/abs/2302.01724)
+- [[MiRO][KDD 23][Alibaba]Adversarial Constrained Bidding via Minimax Regret Optimization with Causality-Aware Reinforcement Learning](https://arxiv.org/abs/2306.07106)
+- [[BLTP][KDD 23][Alibaba]RLTP: Reinforcement Learning to Pace for Delayed Impression Modeling in Preloaded Ads](https://arxiv.org/abs/2302.02592)
