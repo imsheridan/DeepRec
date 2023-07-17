@@ -1,1 +1,2 @@
 - [[EFIN][KDD 23][Tencent]Explicit Feature Interaction-aware Uplift Network for Online Marketing](https://arxiv.org/abs/2306.00315)
+- [[SDC][KDD 23][Tencent]Binary Embedding-based Retrieval at Tencent](https://arxiv.org/abs/2302.08714)
