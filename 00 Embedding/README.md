@@ -1,1 +1,1 @@
-
+- [[EFIN][KDD 23][Tencent]Explicit Feature Interaction-aware Uplift Network for Online Marketing](https://arxiv.org/abs/2306.00315)
