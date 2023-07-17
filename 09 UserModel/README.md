@@ -1,1 +1,3 @@
 - [[PTUPCDR][WSDM 22][Tencent]Personalized Transfer of User Preferences for Cross-domain Recommendation](https://arxiv.org/abs/2110.11154)
+- [[LURM][KDD 23][ALibaba]Empowering General-purpose User Representation with Full-life Cycle Behavior Modeling](https://arxiv.org/pdf/2110.11337.pdf)
+- 
