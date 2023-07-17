@@ -1,1 +1,4 @@
 - [[AutoIntent][SIGIR 22][Mei tuan]Automatically Discovering User Consumption Intents in Meituan](https://dl.acm.org/doi/pdf/10.1145/3534678.3539122)
+- [[CMR][KDD 23][Alibaba]Controllable Multi-Objective Re-ranking with Policy Hypernetworks](https://arxiv.org/abs/2306.05118)
+- [[MIREC][KDD 23][Alibaba]Multi-channel Integrated Recommendation with Exposure Constraints](https://arxiv.org/abs/2305.12319)
+- [[MPAD][KDD 23][Alibaba]Multi-factor Sequential Re-ranking with Perception-Aware Diversification](https://arxiv.org/abs/2305.12420)
