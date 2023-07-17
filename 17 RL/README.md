@@ -2,3 +2,4 @@
 - [[DAU][WWW 23][Kuai shou]Reinforcing User Retention in a Billion Scale Short Video Recommender System](https://arxiv.org/abs/2302.01724)
 - [[MiRO][KDD 23][Alibaba]Adversarial Constrained Bidding via Minimax Regret Optimization with Causality-Aware Reinforcement Learning](https://arxiv.org/abs/2306.07106)
 - [[BLTP][KDD 23][Alibaba]RLTP: Reinforcement Learning to Pace for Delayed Impression Modeling in Preloaded Ads](https://arxiv.org/abs/2302.02592)
+- [[VRS][KDD 23][Meta]Towards Fairness in Personalized Ads Using Impression Variance Aware Reinforcement Learning](https://arxiv.org/abs/2306.03293)
