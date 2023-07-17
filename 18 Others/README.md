@@ -14,13 +14,20 @@
 - Cross-Doman
   - [[CCTL][KDD 23][Mei Tuan]A Collaborative Transfer Learning Framework for Cross-domain Recommendation](https://arxiv.org/pdf/2306.16425.pdf)
   - [[CDCF][Arxiv 23]Cross-domain Recommender Systems via Multimodal Domain Adaptation](https://arxiv.org/pdf/2306.13887.pdf)
+  - [[DRM][KDD 23][Microsoft]Domain-Specific Risk Minimization for Domain Generalization](https://openreview.net/forum?id=vCVTZYFcmCm)
 - Social
   - [[CSCR][KDD 23][Tencent]Constrained Social Community Recommendation](https://www.youtube.com/watch?v=b14qgetaXxs)
 
+
+- Federated Learning
+  - [[KDD 23][Microsoft]FedDefender: Client-Side Attack-Tolerant Federated Learning]
+
 - Online
   - [[KDD 23][Airbnb]Variance Reduction Using In-Experiment Data: Efficient and Targeted Online Measurement for Sparse and Delayed Outcomes](https://alexdeng.github.io/public/files/kdd2023-inexp.pdf)
+    
 - Tag
   - [[KDD 23][Tencent]Doctor Specific Tag Recommendation for Online Medical Record Management](https://www.youtube.com/watch?v=TopyznCvTuQ)
+  - [[KDD 23][Microsoft]Deep Encoders with Auxiliary Parameters for Extreme Classification](https://www.youtube.com/watch?v=4vGX2H780KY)
 - Search
   - [[(LRP-Bandit][KDD 23][Alibaba]Efficient Sparse Linear Bandits under High Dimensional Data](https://www.mcwei.com/Research/Lasso_RP_Bandit.pdf)
   - [[CCG][KDD 23]E-commerce Search via Content Collaborative Graph Neural Network](https://www.youtube.com/watch?v=AttOef4lecg)
