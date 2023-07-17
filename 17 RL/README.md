@@ -3,3 +3,4 @@
 - [[MiRO][KDD 23][Alibaba]Adversarial Constrained Bidding via Minimax Regret Optimization with Causality-Aware Reinforcement Learning](https://arxiv.org/abs/2306.07106)
 - [[BLTP][KDD 23][Alibaba]RLTP: Reinforcement Learning to Pace for Delayed Impression Modeling in Preloaded Ads](https://arxiv.org/abs/2302.02592)
 - [[VRS][KDD 23][Meta]Towards Fairness in Personalized Ads Using Impression Variance Aware Reinforcement Learning](https://arxiv.org/abs/2306.03293)
+- [[KDD 23][Amazon]Experimentation Platforms Meet Reinforcement Learning: Bayesian Sequential Decision-Making for Continuous Monitoring](https://www.amazon.science/publications/experimentation-platforms-meet-reinforcement-learning-bayesian-sequential-decision-making-for-continuous-monitoring)
