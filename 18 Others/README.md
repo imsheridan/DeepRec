@@ -13,3 +13,5 @@
 - Cross-Doman
   - [[CCTL][KDD 23][Mei Tuan]A Collaborative Transfer Learning Framework for Cross-domain Recommendation](https://arxiv.org/pdf/2306.16425.pdf)
   - [[CDCF][Arxiv 23]Cross-domain Recommender Systems via Multimodal Domain Adaptation](https://arxiv.org/pdf/2306.13887.pdf)
+- Search
+  - [[(LRP-Bandit][KDD 23][Alibaba]Efficient Sparse Linear Bandits under High Dimensional Data](https://www.mcwei.com/Research/Lasso_RP_Bandit.pdf)
