@@ -1,2 +1,3 @@
 - [[BM3][WWW 23][Alibaba]Bootstrap Latent Representations for Multi-modal Recommendation](https://arxiv.org/abs/2207.05969)
 - [[AutoCF][WWW 23][Tencent]Automated Self-Supervised Learning for Recommendation](https://arxiv.org/abs/2303.07797)
+- [[GALM][KDD 23][Amazon]Graph-Aware Language Model Pre-Training on a Large Graph Corpus Can Help Multiple Graph Applications](https://arxiv.org/abs/2306.02592)
