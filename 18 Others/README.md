@@ -16,6 +16,8 @@
 - Social
   - [[CSCR][KDD 23][Tencent]Constrained Social Community Recommendation](https://www.youtube.com/watch?v=b14qgetaXxs)
 
+- Online
+  - [[KDD 23][Airbnb]Variance Reduction Using In-Experiment Data: Efficient and Targeted Online Measurement for Sparse and Delayed Outcomes](https://alexdeng.github.io/public/files/kdd2023-inexp.pdf)
 - Tag
   - [[KDD 23][Tencent]Doctor Specific Tag Recommendation for Online Medical Record Management](https://www.youtube.com/watch?v=TopyznCvTuQ)
 - Search
