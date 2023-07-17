@@ -13,5 +13,6 @@
 - [[MINT][Recsys 23]Large Language Model Augmented Narrative Driven Recommendations](https://arxiv.org/abs/2306.02250)
 - [[GPTRec][SIGIR 23]Generative Sequential Recommendation with GPTRec](https://arxiv.org/abs/2306.11114)
 - [[ANN][Arxiv 23][Google]Recommender Systems with Generative Retrieval](https://arxiv.org/abs/2305.05065)
+- [[QUERT][KDD 23][Alibaba]QUERT: Continual Pre-training of Language Model for Query Understanding in Travel Domain Search](https://arxiv.org/abs/2306.06707)
 ### Diffusion for Rec
 - [[DiffuRec][Arxiv 23]DiffuRec: A Diffusion Model for Sequential Recommendation](https://arxiv.org/abs/2304.00686)
