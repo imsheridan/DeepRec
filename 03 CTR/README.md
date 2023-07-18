@@ -13,7 +13,8 @@
 - [[ContentCTR][CVPR 23][Kuai Shou]ContentCTR: Frame-level Live Streaming Click-Through Rate Prediction with Multimodal Transformer](https://arxiv.org/pdf/2306.14392.pdf)
 - [[KDD 23][Tencent]Scenario-Adaptive Feature Interaction for Click-Through Rate Prediction](https://www.youtube.com/watch?v=4HDJ_fBrso4)
 - [[BERT4CTR][KDD 23][Microsoft]BERT4CTR: An Efficient Framework to Combine Pre-trained Language Model with Non-textual Features for CTR Prediction](https://www.youtube.com/watch?v=26xYd3QDYEQ)
+- [[TWIN][KDD 23][Kuai Shou]TWIN: TWo-stage Interest Network for Lifelong User Behavior Modeling in CTR Prediction at Kuaishou](https://arxiv.org/abs/2302.02352)
 
 - CVR
-- [[CL4CVR][KDD 23][Alibaba]Contrastive Learning for Conversion Rate Prediction](https://arxiv.org/pdf/2307.05974.pdf)
-- [[HDR][KDD 23][Alibaba]Capturing Conversion Rate Fluctuation during Sales Promotions: A Novel Historical Data Reuse Approach](https://arxiv.org/abs/2305.12837)
+  - [[CL4CVR][KDD 23][Alibaba]Contrastive Learning for Conversion Rate Prediction](https://arxiv.org/pdf/2307.05974.pdf)
+  - [[HDR][KDD 23][Alibaba]Capturing Conversion Rate Fluctuation during Sales Promotions: A Novel Historical Data Reuse Approach](https://arxiv.org/abs/2305.12837)
