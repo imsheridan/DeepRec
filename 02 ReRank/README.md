@@ -2,3 +2,4 @@
 - [[CMR][KDD 23][Alibaba]Controllable Multi-Objective Re-ranking with Policy Hypernetworks](https://arxiv.org/abs/2306.05118)
 - [[MIREC][KDD 23][Alibaba]Multi-channel Integrated Recommendation with Exposure Constraints](https://arxiv.org/abs/2305.12319)
 - [[MPAD][KDD 23][Alibaba]Multi-factor Sequential Re-ranking with Perception-Aware Diversification](https://arxiv.org/abs/2305.12420)
+- [[KDD 23][Hua Wei]On-device Integrated Re-ranking with Heterogeneous Behavior Modeling](https://www.youtube.com/watch?v=1UirlORuWgo)
