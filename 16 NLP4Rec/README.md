@@ -16,5 +16,6 @@
 - [[QUERT][KDD 23][Alibaba]QUERT: Continual Pre-training of Language Model for Query Understanding in Travel Domain Search](https://arxiv.org/abs/2306.06707)
 - [[LightToken][KDD 23][Amazon]LightToken: A Task and Model-agnostic Lightweight Token Embedding Framework for Pre-trained Language Models](https://www.youtube.com/watch?v=h-1kncLaK9s)
 - [[IVAE][KDD 23][Amazon]Exploiting Intent Evolution in E-commercial Query Recommendation](https://www.amazon.science/publications/exploiting-intent-evolution-in-e-commercial-query-recommendation)
+- [[RecruitPro][KDD 23][Bai Du]RecruitPro: A Pretrained Language Model with Skill-Aware Prompt Learning for Intelligent Recruitment](https://www.youtube.com/watch?v=njnk9C5CeDw)
 ### Diffusion for Rec
 - [[DiffuRec][Arxiv 23]DiffuRec: A Diffusion Model for Sequential Recommendation](https://arxiv.org/abs/2304.00686)
