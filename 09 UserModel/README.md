@@ -3,5 +3,7 @@
 - [[TransAct][KDD 23][Pinterest]TransAct: Transformer-based Realtime User Action Model for Recommendation at Pinterest](https://arxiv.org/abs/2306.00248)
 - [[ReLoop2][KDD 23][Hua Wei]Building Self-Adaptive Recommendation Models via Responsive Error Compensation Loop](https://arxiv.org/abs/2306.08808)
 - [[PEPNET][KDD 23][Kuai Shou] PEPNet: Parameter and Embedding Personalized Network for Infusing with Personalized Prior Information](https://arxiv.org/abs/2302.01115)
+- [[DPVP][KDD 23][Mei Tuan]Modeling Dual Period-Varying Preferences for Takeaway Recommendation](https://arxiv.org/abs/2306.04370)
+- [[KDD 23][Mei Tuan]NEON: Living Needs Prediction System in Meituan]
 - Multi Behavior
   - [[KDD 23][Hua Wei]Hierarchical Projection Enhanced Multi-behavior Recommendation](https://www.youtube.com/watch?v=VLlUSAGL7zg)
