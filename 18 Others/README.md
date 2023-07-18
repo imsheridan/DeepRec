@@ -38,6 +38,10 @@
   - [[(LRP-Bandit][KDD 23][Alibaba]Efficient Sparse Linear Bandits under High Dimensional Data](https://www.mcwei.com/Research/Lasso_RP_Bandit.pdf)
   - [[CCG][KDD 23][Alibaba]E-commerce Search via Content Collaborative Graph Neural Network](https://www.youtube.com/watch?v=AttOef4lecg)
   - [[TW-BERT][KDD 23][Google]End-to-End Query Term Weighting](https://research.google/pubs/pub52462/)
+  - [[S2Phere][KDD 23][Bai Du]S2phere: Semi-Supervised Pre-training for Web Search over Heterogeneous Learning to Rank Data](https://www.youtube.com/watch?v=_Khb0rKdaL0)
+  - [[KDD 23][Bai Du]Learning Discrete Document Representations in Web Search](https://www.youtube.com/watch?v=KV8ERmtZtkw)
+  - [[SE-DSI][KDD 23][Bai Du]Semantic-Enhanced Differentiable Search Index Inspired by Learning Strategies](https://arxiv.org/abs/2305.15115)
+  - [[PGLBox][KDD 23][Bai Du]PGLBox: Multi-GPU Graph Learning Framework for Web-Scale Recommendation](https://www.youtube.com/watch?v=LClNDNnNA7g)
 
 - AD
   - [[KDD 23][Alibaba]End-to-End Inventory Prediction and Contract Allocation for Guaranteed Delivery Advertising](https://www.youtube.com/watch?v=Ghh8qRZDFJw)
