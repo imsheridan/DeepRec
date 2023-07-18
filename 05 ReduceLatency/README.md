@@ -3,3 +3,5 @@
 - [[LibAUC][KDD 23][Google] LibAUC: A Deep Learning Library for X-Risk Optimization](https://arxiv.org/abs/2306.03065)
 - [[KDD 23][Google]Fresh Content Needs More Attention: Multi-funnel Fresh Content Recommendation](https://arxiv.org/abs/2306.01720)
 - [[KDD 23][Hua Wei]Deep Landscape Forecasting in Multi-Slot Real-Time Bidding](https://www.youtube.com/watch?v=TsAH4947gjM)
+- [[TPM][KDD 23][Kuai Shou]Tree based Progressive Regression Model for Watch-Time Prediction in Short-video Recommendation](https://arxiv.org/pdf/2306.03392.pdf)
+- [[KDD 23][ByteDance]Counterfactual Video Recommendation for Duration Debiasing]
