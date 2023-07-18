@@ -2,3 +2,4 @@
 - [[SQuAD][KDD 23][Microsoft]Constraint-aware and Ranking-distilled Token Pruning for Efficient Transformer Inference](https://arxiv.org/abs/2306.14393)
 - [[LibAUC][KDD 23][Google] LibAUC: A Deep Learning Library for X-Risk Optimization](https://arxiv.org/abs/2306.03065)
 - [[KDD 23][Google]Fresh Content Needs More Attention: Multi-funnel Fresh Content Recommendation](https://arxiv.org/abs/2306.01720)
+- [[KDD 23][Hua Wei]Deep Landscape Forecasting in Multi-Slot Real-Time Bidding](https://www.youtube.com/watch?v=TsAH4947gjM)
