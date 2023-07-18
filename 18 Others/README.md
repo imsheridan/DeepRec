@@ -28,6 +28,8 @@
 - Tag
   - [[KDD 23][Tencent]Doctor Specific Tag Recommendation for Online Medical Record Management](https://www.youtube.com/watch?v=TopyznCvTuQ)
   - [[KDD 23][Microsoft]Deep Encoders with Auxiliary Parameters for Extreme Classification](https://www.youtube.com/watch?v=4vGX2H780KY)
+  - [[CLUR][KDD 23][Microsoft]CLUR: Uncertainty Estimation for Few-Shot Text Classification with Contrastive Learning](https://www.youtube.com/watch?v=SvJCWdSkNTQ)
+
 - Search
   - [[(LRP-Bandit][KDD 23][Alibaba]Efficient Sparse Linear Bandits under High Dimensional Data](https://www.mcwei.com/Research/Lasso_RP_Bandit.pdf)
   - [[CCG][KDD 23]E-commerce Search via Content Collaborative Graph Neural Network](https://www.youtube.com/watch?v=AttOef4lecg)
