@@ -5,3 +5,6 @@
 - [[ReSeq][Recsys 23][Boss Zhipin]Reciprocal Sequential Recommendation](https://arxiv.org/abs/2306.14712)
 - [[CT4Rec][KDD 23][Tencent/OPPO]CT4Rec: Simple yet Effective Consistency Training for Sequential Recommendation](https://www.youtube.com/watch?v=pX3aQRqDgy8)
 - [[KDD 23][Amazon]Text Is All You Need: Learning Language Representations for Sequential Recommendation](https://arxiv.org/abs/2305.13731)
+
+- Time Series
+- [[KDD 23][Microsoft] Workplace Recommendation with Temporal Network Objectives](https://www.youtube.com/watch?v=5OWlKb81NlE)
