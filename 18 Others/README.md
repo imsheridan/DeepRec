@@ -16,6 +16,7 @@
   - [[CDCF][Arxiv 23]Cross-domain Recommender Systems via Multimodal Domain Adaptation](https://arxiv.org/pdf/2306.13887.pdf)
   - [[DRM][KDD 23][Microsoft]Domain-Specific Risk Minimization for Domain Generalization](https://openreview.net/forum?id=vCVTZYFcmCm)
   - [[SMILE][KDD 23][Google]SMILE: Evaluation and Domain Adaptation for Social Media Language Understanding](https://paperswithcode.com/paper/smile-evaluation-and-domain-adaptation-for)
+  - [[CCTL][KDD 23][Mei Tuan]A Collaborative Transfer Learning Framework for Cross-domain Recommendation](https://arxiv.org/abs/2306.16425)
 - Social
   - [[CSCR][KDD 23][Tencent]Constrained Social Community Recommendation](https://www.youtube.com/watch?v=b14qgetaXxs)
 
