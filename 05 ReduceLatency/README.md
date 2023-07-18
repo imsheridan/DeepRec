@@ -1,2 +1,3 @@
 - [[VR-NDT][WWW 23][Tencent]Reweighting Clicks with Dwell Time in Recommendation](https://arxiv.org/abs/2209.09000)
 - [[SQuAD][KDD 23][Microsoft]Constraint-aware and Ranking-distilled Token Pruning for Efficient Transformer Inference](https://arxiv.org/abs/2306.14393)
+- [[LibAUC][KDD 23][Google] LibAUC: A Deep Learning Library for X-Risk Optimization](https://arxiv.org/abs/2306.03065)
