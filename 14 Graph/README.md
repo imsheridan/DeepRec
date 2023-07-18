@@ -3,3 +3,4 @@
 - [[GALM][KDD 23][Amazon]Graph-Aware Language Model Pre-Training on a Large Graph Corpus Can Help Multiple Graph Applications](https://arxiv.org/abs/2306.02592)
 - [[GetPt][KDD 23][Microsoft]GetPt: Graph-enhanced General Table Pre-training with Alternate Attention Network]
 - [[JGCF][KDD 23][Microsoft]On Manipulating Signals of User-Item Graph: A Jacobi Polynomial-based Graph Collaborative Filtering](https://arxiv.org/abs/2306.03624)
+- [[HUGE][KDD 23][Google]HUGE: Huge Unsupervised Graph Embeddings with TPUs](https://www.youtube.com/watch?v=SWEpvDbpbcQ)
