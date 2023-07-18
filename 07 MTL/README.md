@@ -6,7 +6,9 @@
 - [[STAN][Recsys 23][Shopee]STAN: Stage-Adaptive Network for Multi-Task Recommendation by Learning User Lifecycle-Based Representation](https://arxiv.org/abs/2306.12232)
 - [[ColdGPT][Recsys 23][salesforce]Multi-task Item-attribute Graph Pre-training for Strict Cold-start Item Recommendation](https://arxiv.org/pdf/2306.14462.pdf)
 - [[KDD 23][Airbnb]Optimizing Airbnb Search Journey with Multi-task Learning](https://arxiv.org/abs/2305.18431)
-- 
+- [[KDD 23][Google] Improving Training Stability for Multitask Ranking Models in Recommender Systems](https://arxiv.org/abs/2302.09178)
+- [[KDD 23][Google]Boosting Multitask Learning on Graphs through Higher-Order Task Affinities](https://arxiv.org/abs/2306.14009)
+- [[COMET][KDD 23][Google] COMET: Learning Cardinality Constrained Mixture of Experts with Trees and Local Search](https://arxiv.org/abs/2306.02824)
 
 # some resources
 
