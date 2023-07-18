@@ -2,3 +2,4 @@
 - [[AutoCF][WWW 23][Tencent]Automated Self-Supervised Learning for Recommendation](https://arxiv.org/abs/2303.07797)
 - [[GALM][KDD 23][Amazon]Graph-Aware Language Model Pre-Training on a Large Graph Corpus Can Help Multiple Graph Applications](https://arxiv.org/abs/2306.02592)
 - [[GetPt][KDD 23][Microsoft]GetPt: Graph-enhanced General Table Pre-training with Alternate Attention Network]
+- [[JGCF][KDD 23][Microsoft]On Manipulating Signals of User-Item Graph: A Jacobi Polynomial-based Graph Collaborative Filtering](https://arxiv.org/abs/2306.03624)
