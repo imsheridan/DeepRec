@@ -4,3 +4,4 @@
 - [[GetPt][KDD 23][Microsoft]GetPt: Graph-enhanced General Table Pre-training with Alternate Attention Network]
 - [[JGCF][KDD 23][Microsoft]On Manipulating Signals of User-Item Graph: A Jacobi Polynomial-based Graph Collaborative Filtering](https://arxiv.org/abs/2306.03624)
 - [[HUGE][KDD 23][Google]HUGE: Huge Unsupervised Graph Embeddings with TPUs](https://www.youtube.com/watch?v=SWEpvDbpbcQ)
+- [[KDD 23][ByteDance]Graph-Based Model-Agnostic Data Subsampling for Recommendation Systems](https://arxiv.org/abs/2305.16391)
