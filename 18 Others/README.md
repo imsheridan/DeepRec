@@ -38,4 +38,5 @@
   - [[KDD 23][Alibaba]End-to-End Inventory Prediction and Contract Allocation for Guaranteed Delivery Advertising](https://www.youtube.com/watch?v=Ghh8qRZDFJw)
   - [[KDD 23][Alibaba]Learning-Based Ad Auction Design with Externalities: The Framework and A Matching-Based Approach](https://www.google.com.hk/search?q=Learning-Based+Ad+Auction+Design+with+Externalities%3A+The+Framework+and+A+Matching-Based+Approach&oq=Learning-Based+Ad+Auction+Design+with+Externalities%3A+The+Framework+and+A+Matching-Based+Approach&aqs=chrome..69i57.275j0j4&sourceid=chrome&ie=UTF-8)
   - [[KDD 23][Alibaba]A Personalized Automated Bidding Framework for Fairness-aware Online Advertising](https://www.youtube.com/watch?v=uOrqHngy2eY)
+  - [[PASS][KDD 23][Microsoft]PASS: Personalized Advertiser-aware Sponsored Search](https://www.youtube.com/watch?v=L7Qb23w-D7I)
     
