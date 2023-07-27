@@ -7,3 +7,4 @@
 - [[TPM][KDD 23][Kuai Shou]Tree based Progressive Regression Model for Watch-Time Prediction in Short-video Recommendation](https://arxiv.org/pdf/2306.03392.pdf)
 - [[KDD 23][ByteDance]Counterfactual Video Recommendation for Duration Debiasing]
 - [[KDD 23][Mei Tuan]A Multi-stage Framework for Online Bonus Allocation Based on Constrained User Intent Detection](https://www.youtube.com/watch?v=go055TZ7cLA)
+- [[AAAI 23][ByteDance]CowClip: Reducing CTR Prediction Model Training Time from 12 hours to 10 minutes on 1 GPU](https://arxiv.org/pdf/2204.06240.pdf)
