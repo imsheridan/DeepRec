@@ -42,6 +42,7 @@
   - [[KDD 23][Bai Du]Learning Discrete Document Representations in Web Search](https://www.youtube.com/watch?v=KV8ERmtZtkw)
   - [[SE-DSI][KDD 23][Bai Du]Semantic-Enhanced Differentiable Search Index Inspired by Learning Strategies](https://arxiv.org/abs/2305.15115)
   - [[PGLBox][KDD 23][Bai Du]PGLBox: Multi-GPU Graph Learning Framework for Web-Scale Recommendation](https://www.youtube.com/watch?v=LClNDNnNA7g)
+  - [[Markplace][WWW 23][FaceBook]](https://mp.weixin.qq.com/s/CcRAKDZJMqq6jTfqGM6g1A)
 
 - AD
   - [[KDD 23][Alibaba]End-to-End Inventory Prediction and Contract Allocation for Guaranteed Delivery Advertising](https://www.youtube.com/watch?v=Ghh8qRZDFJw)
