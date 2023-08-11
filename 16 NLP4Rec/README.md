@@ -17,5 +17,6 @@
 - [[LightToken][KDD 23][Amazon]LightToken: A Task and Model-agnostic Lightweight Token Embedding Framework for Pre-trained Language Models](https://www.youtube.com/watch?v=h-1kncLaK9s)
 - [[IVAE][KDD 23][Amazon]Exploiting Intent Evolution in E-commercial Query Recommendation](https://www.amazon.science/publications/exploiting-intent-evolution-in-e-commercial-query-recommendation)
 - [[RecruitPro][KDD 23][Bai Du]RecruitPro: A Pretrained Language Model with Skill-Aware Prompt Learning for Intelligent Recruitment](https://www.youtube.com/watch?v=njnk9C5CeDw)
+- [[PLATE][SIGIR 23][Hua Wei]PLATE: A Prompt-Enhanced Paradigm for Multi-Scenario Recommendations](https://dl.acm.org/doi/10.1145/3539618.3591750)
 ### Diffusion for Rec
 - [[DiffuRec][Arxiv 23]DiffuRec: A Diffusion Model for Sequential Recommendation](https://arxiv.org/abs/2304.00686)
