@@ -11,6 +11,7 @@
 - [[COMET][KDD 23][Google] COMET: Learning Cardinality Constrained Mixture of Experts with Trees and Local Search](https://arxiv.org/abs/2306.02824)
 - [[ADL][SIGIR 23][CaiNiao]ADL: Adaptive Distribution Learning Framework for Multi-Scenario CTR Prediction](https://dl.acm.org/doi/pdf/10.1145/3539618.3591944)
 - [[SAMD][KDD 23][Ant]SAMD: An Industrial Framework for Heterogeneous Multi-Scenario Recommendation](https://dl.acm.org/doi/pdf/10.1145/3580305.3599955)
+- [[MultiSFS][SIGIR 23][Hua Wei]Single-shot Feature Selection for Multi-task Recommendations](https://dl.acm.org/doi/abs/10.1145/3539618.3591767)
 
 # some resources
 
