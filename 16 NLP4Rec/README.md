@@ -1,5 +1,8 @@
 
 ### LLM for Rec
+- Survey
+  - [Recommender Systems in the Era of
+Large Language Models (LLMs)](https://arxiv.org/pdf/2307.02046.pdf)   
 - [[P5][Arxiv 22]Recommendation as Language Processing (RLP):A Unified Pretrain, Personalized Prompt & Predict Paradigm (P5)](https://arxiv.org/abs/2203.13366)
 - [ChatRec-arxiv23-Chat-REC: Towards Interactive and Explainable LLMs-Augmented Recommender System](https://arxiv.org/abs/2303.14524)
 - [GPT4Rec-arxiv23-Amazon-GPT4Rec: A Generative Framework for Personalized Recommendation and User Interests Interpretation](https://arxiv.org/pdf/2304.03879.pdf)
