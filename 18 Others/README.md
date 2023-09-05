@@ -19,7 +19,8 @@
   - [[CCTL][KDD 23][Mei Tuan]A Collaborative Transfer Learning Framework for Cross-domain Recommendation](https://arxiv.org/abs/2306.16425)
 - Social
   - [[CSCR][KDD 23][Tencent]Constrained Social Community Recommendation](https://www.youtube.com/watch?v=b14qgetaXxs)
-
+- Negative Feedback
+  - [[FeedBack][CIKM 23][Kuai shou]Learning and Optimization of Implicit Negative Feedback for Industrial Short-video Recommender System](https://arxiv.org/pdf/2308.13249.pdf) 
 
 - Federated Learning
   - [[KDD 23][Microsoft]FedDefender: Client-Side Attack-Tolerant Federated Learning]
