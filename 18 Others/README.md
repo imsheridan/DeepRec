@@ -26,7 +26,9 @@
   - [[KDD 23][Microsoft]FedDefender: Client-Side Attack-Tolerant Federated Learning]
   - [[UA-FedRec][KDD 23][Microsoft]UA-FedRec: Untargeted Attack on Federated News Recommendation](https://arxiv.org/abs/2202.06701)
   - 
-
+- Consistency Modeling
+  - [SIGIR 18-20](https://mp.weixin.qq.com/s/ERMWm4wWCjWBvTJJcT1fbw)
+ 
 - Online
   - [[KDD 23][Airbnb]Variance Reduction Using In-Experiment Data: Efficient and Targeted Online Measurement for Sparse and Delayed Outcomes](https://alexdeng.github.io/public/files/kdd2023-inexp.pdf)
     
