@@ -12,6 +12,7 @@
 - [[ADL][SIGIR 23][CaiNiao]ADL: Adaptive Distribution Learning Framework for Multi-Scenario CTR Prediction](https://dl.acm.org/doi/pdf/10.1145/3539618.3591944)
 - [[SAMD][KDD 23][Ant]SAMD: An Industrial Framework for Heterogeneous Multi-Scenario Recommendation](https://dl.acm.org/doi/pdf/10.1145/3580305.3599955)
 - [[MultiSFS][SIGIR 23][Hua Wei]Single-shot Feature Selection for Multi-task Recommendations](https://dl.acm.org/doi/abs/10.1145/3539618.3591767)
+- [[STEM][Arxiv 23][Tencent]STEM: Unleashing the Power of Embeddings for Multi-task Recommendation](https://arxiv.org/pdf/2308.13537.pdf)
 
 # some resources
 
