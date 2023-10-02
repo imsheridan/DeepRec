@@ -7,6 +7,8 @@
 - [[KDD 23][Amazon]Text Is All You Need: Learning Language Representations for Sequential Recommendation](https://arxiv.org/abs/2305.13731)
 - [[Arxiv 22][Salesforce]Sequential Recommendation with Auxiliary Item Relationships via Multi-Relational Transformer](https://arxiv.org/abs/2210.13572)
 - [[Miracle][SIGIR 23][Ant]Towards Multi-Interest Pre-training with Sparse Capsule Network](https://dl.acm.org/doi/10.1145/3539618.3591778)
+- [[STDP][Recsys 23][Mei Tuan]Beyond the Sequence: Statistics-Driven Pre-training for Stabilizing Sequential Recommendation Model](https://dl.acm.org/doi/pdf/10.1145/3604915.3608821)
+  
 
 - Time Series
   - [[KDD 23][Microsoft] Workplace Recommendation with Temporal Network Objectives](https://www.youtube.com/watch?v=5OWlKb81NlE)
