@@ -9,6 +9,8 @@
 - [[Miracle][SIGIR 23][Ant]Towards Multi-Interest Pre-training with Sparse Capsule Network](https://dl.acm.org/doi/10.1145/3539618.3591778)
 - [[STDP][Recsys 23][Mei Tuan]Beyond the Sequence: Statistics-Driven Pre-training for Stabilizing Sequential Recommendation Model](https://dl.acm.org/doi/pdf/10.1145/3604915.3608821)
 - [[ITSRec][Recsys 23][Amazon]Incorporating Time in Sequential Recommendation Models](https://dl.acm.org/doi/pdf/10.1145/3604915.3608830)
+- [[BERT4Rec vs SASRec][Recsys 23][Sberbank]Turning Dross Into Gold Loss: is BERT4Rec really better than
+SASRec?](https://dl.acm.org/doi/pdf/10.1145/3604915.3610644)
   
 
 - Time Series
