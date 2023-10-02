@@ -8,6 +8,7 @@
 - [[Arxiv 22][Salesforce]Sequential Recommendation with Auxiliary Item Relationships via Multi-Relational Transformer](https://arxiv.org/abs/2210.13572)
 - [[Miracle][SIGIR 23][Ant]Towards Multi-Interest Pre-training with Sparse Capsule Network](https://dl.acm.org/doi/10.1145/3539618.3591778)
 - [[STDP][Recsys 23][Mei Tuan]Beyond the Sequence: Statistics-Driven Pre-training for Stabilizing Sequential Recommendation Model](https://dl.acm.org/doi/pdf/10.1145/3604915.3608821)
+- [[ITSRec][Recsys 23][Amazon]Incorporating Time in Sequential Recommendation Models](https://dl.acm.org/doi/pdf/10.1145/3604915.3608830)
   
 
 - Time Series
