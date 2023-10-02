@@ -11,6 +11,8 @@
 - [[ITSRec][Recsys 23][Amazon]Incorporating Time in Sequential Recommendation Models](https://dl.acm.org/doi/pdf/10.1145/3604915.3608830)
 - [[BERT4Rec vs SASRec][Recsys 23][Sberbank]Turning Dross Into Gold Loss: is BERT4Rec really better than
 SASRec?](https://dl.acm.org/doi/pdf/10.1145/3604915.3610644)
+- [[RUEL][CIKM 23][Microsoft]RUEL: Retrieval-Augmented User Representation with Edge Browser Logs for Sequential Recommendation](https://arxiv.org/pdf/2309.10469.pdf)
+- 
   
 
 - Time Series
