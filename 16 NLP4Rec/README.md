@@ -21,6 +21,7 @@ Large Language Models (LLMs)](https://arxiv.org/pdf/2307.02046.pdf)
 - [[IVAE][KDD 23][Amazon]Exploiting Intent Evolution in E-commercial Query Recommendation](https://www.amazon.science/publications/exploiting-intent-evolution-in-e-commercial-query-recommendation)
 - [[RecruitPro][KDD 23][Bai Du]RecruitPro: A Pretrained Language Model with Skill-Aware Prompt Learning for Intelligent Recruitment](https://www.youtube.com/watch?v=njnk9C5CeDw)
 - [[PLATE][SIGIR 23][Hua Wei]PLATE: A Prompt-Enhanced Paradigm for Multi-Scenario Recommendations](https://dl.acm.org/doi/10.1145/3539618.3591750)
+- [[LLMSeq][Recsys 23]Leveraging Large Language Models for Sequential Recommendation](https://dl.acm.org/doi/pdf/10.1145/3604915.3610639)
 
 
 ### Diffusion for Rec
