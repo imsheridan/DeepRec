@@ -5,6 +5,7 @@
 - Multi Modality
   - [[MODEST][SIGIR 23]Mining Stable Preferences: Adaptive Modality Decorrelation for Multimedia Recommendation](https://arxiv.org/pdf/2306.14179.pdf)
   - [[FedMultiModel][KDD 23][Amazon] FedMultimodal: A Benchmark for Multimodal Federated Learning](https://arxiv.org/pdf/2306.09486.pdf)
+  - [[MMSR][CIKM 23][Hua Wei]Adaptive Multi-Modalities Fusion in Sequential Recommendation Systems](https://github.com/HoldenHu/MMSR)
 - Generate
   - [[GeneRec][Arxiv 23]Generative Recommendation: Towards Next-generation Recommender Paradigm](https://arxiv.org/abs/2304.03516)
   - [[FNAS][WWW 23][HUa Wei]FANS: Fast Non-Autoregressive Sequence Generation for Item List Continuation](https://arxiv.org/abs/2304.00545)
