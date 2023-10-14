@@ -12,6 +12,7 @@
 - [[FPSR][WWW 23]Fine-tuning Partition-aware Item Similarities for Efficient and Scalable Recommendation](https://arxiv.org/abs/2207.05959)
 - [[APR][SIGIR 23][Wei Xin]Attacking Pre-trained Recommendation](https://arxiv.org/pdf/2305.03995.pdf)
 - [[DPVP][KDD 23][Mei Tuan]Modeling Dual Period-Varying Preferences for Takeaway Recommendation](https://arxiv.org/abs/2306.04370)
+
 - Cross-Doman
   - [[CCTL][KDD 23][Mei Tuan]A Collaborative Transfer Learning Framework for Cross-domain Recommendation](https://arxiv.org/pdf/2306.16425.pdf)
   - [[CDCF][Arxiv 23]Cross-domain Recommender Systems via Multimodal Domain Adaptation](https://arxiv.org/pdf/2306.13887.pdf)
@@ -19,6 +20,7 @@
   - [[SMILE][KDD 23][Google]SMILE: Evaluation and Domain Adaptation for Social Media Language Understanding](https://paperswithcode.com/paper/smile-evaluation-and-domain-adaptation-for)
   - [[CCTL][KDD 23][Mei Tuan]A Collaborative Transfer Learning Framework for Cross-domain Recommendation](https://arxiv.org/abs/2306.16425)
   - [[HAMUR][CIKM 23][Hua Wei]HAMUR: Hyper Adapter for Multi-Domain Recommendation](https://arxiv.org/pdf/2309.06217.pdf) [note](https://mp.weixin.qq.com/s/lmxNVOElZ9MnuarZzEiD_g)
+  - [[SATrans][KDD 23]Scenario-Adaptive Feature Interaction for Click-Through Rate Prediction](https://dl.acm.org/doi/pdf/10.1145/3580305.3599936) [note](https://mp.weixin.qq.com/s/igY0nXOdM7sclC3M9fL1oA)
 
 - Social
   - [[CSCR][KDD 23][Tencent]Constrained Social Community Recommendation](https://www.youtube.com/watch?v=b14qgetaXxs)
