@@ -6,5 +6,6 @@
 - [[KDD 23][Hua Wei]Deep Landscape Forecasting in Multi-Slot Real-Time Bidding](https://www.youtube.com/watch?v=TsAH4947gjM)
 - [[TPM][KDD 23][Kuai Shou]Tree based Progressive Regression Model for Watch-Time Prediction in Short-video Recommendation](https://arxiv.org/pdf/2306.03392.pdf)
 - [[KDD 23][ByteDance]Counterfactual Video Recommendation for Duration Debiasing]
+- [[RecAlg][CIKM 23][Webo]MemoNet: Memorizing All Cross Features’ Representations Efficiently via Multi-Hash Codebook Network for CTR Prediction](https://arxiv.org/pdf/2211.01334.pdf) [Note](https://mp.weixin.qq.com/s/7PGf7SLNJ9oHSTYJV72MYg)
 - [[KDD 23][Mei Tuan]A Multi-stage Framework for Online Bonus Allocation Based on Constrained User Intent Detection](https://www.youtube.com/watch?v=go055TZ7cLA)
 - [[AAAI 23][ByteDance]CowClip: Reducing CTR Prediction Model Training Time from 12 hours to 10 minutes on 1 GPU](https://arxiv.org/pdf/2204.06240.pdf)
