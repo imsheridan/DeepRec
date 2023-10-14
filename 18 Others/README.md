@@ -18,6 +18,8 @@
   - [[DRM][KDD 23][Microsoft]Domain-Specific Risk Minimization for Domain Generalization](https://openreview.net/forum?id=vCVTZYFcmCm)
   - [[SMILE][KDD 23][Google]SMILE: Evaluation and Domain Adaptation for Social Media Language Understanding](https://paperswithcode.com/paper/smile-evaluation-and-domain-adaptation-for)
   - [[CCTL][KDD 23][Mei Tuan]A Collaborative Transfer Learning Framework for Cross-domain Recommendation](https://arxiv.org/abs/2306.16425)
+  - [[HAMUR][CIKM 23][Hua Wei]HAMUR: Hyper Adapter for Multi-Domain Recommendation](https://arxiv.org/pdf/2309.06217.pdf) [note](https://mp.weixin.qq.com/s/lmxNVOElZ9MnuarZzEiD_g)
+
 - Social
   - [[CSCR][KDD 23][Tencent]Constrained Social Community Recommendation](https://www.youtube.com/watch?v=b14qgetaXxs)
 - Negative Feedback
