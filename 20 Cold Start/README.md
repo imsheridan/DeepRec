@@ -1,0 +1,1 @@
+- [[USR][CIKM 23][Ant]An Unified Search and Recommendation Foundation Model for Cold-Start Scenario](https://arxiv.org/pdf/2309.08939.pdf)
