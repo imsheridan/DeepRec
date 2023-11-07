@@ -30,3 +30,4 @@ Large Language Models (LLMs)](https://arxiv.org/pdf/2307.02046.pdf)
 
 ### Other Resources
 - [LLM for Rec](https://mp.weixin.qq.com/s/7yGqQBN8Lz_OhRW_1SxIcw)
+- [ID-based & LLM-based](https://mp.weixin.qq.com/s/L5qNHLJpBUpwt1NofApBew)
