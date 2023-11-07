@@ -12,7 +12,7 @@
 - [[BERT4Rec vs SASRec][Recsys 23][Sberbank]Turning Dross Into Gold Loss: is BERT4Rec really better than
 SASRec?](https://dl.acm.org/doi/pdf/10.1145/3604915.3610644)
 - [[RUEL][CIKM 23][Microsoft]RUEL: Retrieval-Augmented User Representation with Edge Browser Logs for Sequential Recommendation](https://arxiv.org/pdf/2309.10469.pdf)
-- 
+- [[Negative Feedback][Recsys 23][Google]Learning from Negative User Feedback and Measuring Responsiveness for Sequential Recommenders](https://arxiv.org/abs/2308.12256) [note](https://mp.weixin.qq.com/s/5ey25PbhOFROSN0fhGcxXQ)
   
 
 - Time Series
