@@ -6,6 +6,7 @@
   - [[MODEST][SIGIR 23]Mining Stable Preferences: Adaptive Modality Decorrelation for Multimedia Recommendation](https://arxiv.org/pdf/2306.14179.pdf)
   - [[FedMultiModel][KDD 23][Amazon] FedMultimodal: A Benchmark for Multimodal Federated Learning](https://arxiv.org/pdf/2306.09486.pdf)
   - [[MMSR][CIKM 23][Hua Wei]Adaptive Multi-Modalities Fusion in Sequential Recommendation Systems](https://github.com/HoldenHu/MMSR) [Note](https://mp.weixin.qq.com/s/vtOVv8wt4SfzMXg-r0VVZQ)
+  - [[IDvs.MoRec][SIGIR 23]]( https://arxiv.org/abs/2303.1383) [解读](https://mp.weixin.qq.com/s/16xYxHyUky0Dc2pgtyNWFA)
     
 
 - Generate
