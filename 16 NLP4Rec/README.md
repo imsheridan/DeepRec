@@ -23,6 +23,7 @@ Large Language Models (LLMs)](https://arxiv.org/pdf/2307.02046.pdf)
 - [[RecruitPro][KDD 23][Bai Du]RecruitPro: A Pretrained Language Model with Skill-Aware Prompt Learning for Intelligent Recruitment](https://www.youtube.com/watch?v=njnk9C5CeDw)
 - [[PLATE][SIGIR 23][Hua Wei]PLATE: A Prompt-Enhanced Paradigm for Multi-Scenario Recommendations](https://dl.acm.org/doi/10.1145/3539618.3591750)
 - [[LLMSeq][Recsys 23]Leveraging Large Language Models for Sequential Recommendation](https://dl.acm.org/doi/pdf/10.1145/3604915.3610639)
+- [[LCRec][Arxiv2023][Tencent]Adapting Large Language Models by Integrating Collaborative Semantics for Recommendation](https://arxiv.org/abs/2311.09049) [[Code]](https://github.com/RUCAIBox/LC-Rec) [[Note]](https://mp.weixin.qq.com/s/ql9Ig_8LETCIyGSVifMbpw)
 
 
 ### Diffusion for Rec
