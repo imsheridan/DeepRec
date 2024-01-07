@@ -19,6 +19,7 @@
 - [[CELS][KDD 23]Cognitive Evolutionary Search to Select Feature Interactions for Click-Through Rate Prediction](http://home.ustc.edu.cn/~yrunl/Files/Publications/KDD23-CELS.pdf)
 - [[MAP][KDD 23][Hua Wei]MAP: A Model-agnostic Pretraining Framework for Click-through Rate Prediction](https://arxiv.org/pdf/2308.01737.pdf) [Note](https://mp.weixin.qq.com/s/VZggjOckJcwaRP0VbxSG2A)
 - [[AT4CTR][AAAI 24][MeiTuan]AT4CTR: Auxiliary Match Tasks for Enhancing Click-Through Rate Prediction](https://arxiv.org/pdf/2312.06683.pdf) [[Note]](https://mp.weixin.qq.com/s/FfwUL08Eng6_eQVpadfLqw)
+- [[UniCTR][Arxiv2023][HuaWei]A Unified Framework for Multi-Domain CTR Prediction via Large Language Models](https://arxiv.org/pdf/2312.10743.pdf) [[Note]](https://mp.weixin.qq.com/s/TSTyAg5U9fqa5e_IzyesMg)
 
 - CVR
   - [[CL4CVR][KDD 23][Alibaba]Contrastive Learning for Conversion Rate Prediction](https://arxiv.org/pdf/2307.05974.pdf)
