@@ -1,0 +1,1 @@
+  - [[(LRP-Bandit][KDD 23][Alibaba]Efficient Sparse Linear Bandits under High Dimensional Data](https://www.mcwei.com/Research/Lasso_RP_Bandit.pdf)

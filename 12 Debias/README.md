@@ -1,0 +1,7 @@
+- [[DB-VAE][Arxiv 23]Disentangled Variational Auto-encoder Enhanced by Counterfactual Data for Debiasing Recommendation](https://arxiv.org/abs/2306.15961)
+- [[TASTE][CIKM 23]](arxiv.org/abs/2308.14029) [note](https://mp.weixin.qq.com/s/vKFHXiGuIAZKq3GHOsuSmw)
+- video length
+  - [[VLDRec][TOIS 23]Alleviating Video-Length Effect for Micro-video Recommendation](https://arxiv.org/pdf/2308.14276.pdf)
+- some resources
+  - [position-bias建模](https://mp.weixin.qq.com/s/ERMWm4wWCjWBvTJJcT1fbw)
+  - [Debias](https://mp.weixin.qq.com/s/ATZCKdUQe25mpgNwxqwHYg)

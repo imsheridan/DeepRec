@@ -1,0 +1,4 @@
+- [[EFIN][KDD 23][Tencent]Explicit Feature Interaction-aware Uplift Network for Online Marketing](https://arxiv.org/abs/2306.00315)
+- [[SDC][KDD 23][Tencent]Binary Embedding-based Retrieval at Tencent](https://arxiv.org/abs/2302.08714)
+- [[MIPS][KDD 23][Meta]Revisiting Neural Retrieval on Accelerators](https://arxiv.org/abs/2306.04039)
+- [[UnifileR][KDD 23][Microsoft]UnifieR: A Unified Retriever for Large-Scale Retrieval](https://arxiv.org/abs/2205.11194)

@@ -1,0 +1,10 @@
+- [[PTUPCDR][WSDM 22][Tencent]Personalized Transfer of User Preferences for Cross-domain Recommendation](https://arxiv.org/abs/2110.11154)
+- [[LURM][KDD 23][ALibaba]Empowering General-purpose User Representation with Full-life Cycle Behavior Modeling](https://arxiv.org/pdf/2110.11337.pdf)
+- [[TransAct][KDD 23][Pinterest]TransAct: Transformer-based Realtime User Action Model for Recommendation at Pinterest](https://arxiv.org/abs/2306.00248)
+- [[ReLoop2][KDD 23][Hua Wei]Building Self-Adaptive Recommendation Models via Responsive Error Compensation Loop](https://arxiv.org/abs/2306.08808)
+- [[PEPNET][KDD 23][Kuai Shou] PEPNet: Parameter and Embedding Personalized Network for Infusing with Personalized Prior Information](https://arxiv.org/abs/2302.01115)
+- [[DPVP][KDD 23][Mei Tuan]Modeling Dual Period-Varying Preferences for Takeaway Recommendation](https://arxiv.org/abs/2306.04370)
+- [[KDD 23][Mei Tuan]NEON: Living Needs Prediction System in Meituan]
+- [[CMIL][Recsys 23][Wechat]Interpretable User Retention Modeling in Recommendation](https://dl.acm.org/doi/abs/10.1145/3604915.3608818) [解读](https://mp.weixin.qq.com/s/h5jOXOlQOMI_Aygs0teWKw)
+- Multi Behavior
+  - [[KDD 23][Hua Wei]Hierarchical Projection Enhanced Multi-behavior Recommendation](https://www.youtube.com/watch?v=VLlUSAGL7zg)

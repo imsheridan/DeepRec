@@ -1,0 +1,4 @@
+- [[SASS][CIKM 22][Alibaba]Scenario-Adaptive and Self-Supervised Model for Multi-Scenario Personalized Recommendation](https://arxiv.org/abs/2208.11457)
+- [[PLATE][SIGIR 23][HuaWei]PLATE: A Prompt-Enhanced Paradigm for Multi-Scenario Recommendations](https://dl.acm.org/doi/10.1145/3539618.3591750)
+- 其他资源
+  - [一文纵览最近的多样性推荐文章](https://mp.weixin.qq.com/s/QvH2fys6o3BzvHWyucX30g)  

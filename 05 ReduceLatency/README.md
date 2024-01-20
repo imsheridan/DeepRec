@@ -1,0 +1,11 @@
+- [[D2Q][KDD 22][Kuai Shou]Counterfactual Video Recommendation for Duration Debiasing](https://arxiv.org/pdf/2206.06003.pdf)
+- [[VR-NDT][WWW 23][Tencent]Reweighting Clicks with Dwell Time in Recommendation](https://arxiv.org/abs/2209.09000)
+- [[SQuAD][KDD 23][Microsoft]Constraint-aware and Ranking-distilled Token Pruning for Efficient Transformer Inference](https://arxiv.org/abs/2306.14393)
+- [[LibAUC][KDD 23][Google] LibAUC: A Deep Learning Library for X-Risk Optimization](https://arxiv.org/abs/2306.03065)
+- [[KDD 23][Google]Fresh Content Needs More Attention: Multi-funnel Fresh Content Recommendation](https://arxiv.org/abs/2306.01720)
+- [[KDD 23][Hua Wei]Deep Landscape Forecasting in Multi-Slot Real-Time Bidding](https://www.youtube.com/watch?v=TsAH4947gjM)
+- [[TPM][KDD 23][Kuai Shou]Tree based Progressive Regression Model for Watch-Time Prediction in Short-video Recommendation](https://arxiv.org/pdf/2306.03392.pdf)
+- [[KDD 23][ByteDance]Counterfactual Video Recommendation for Duration Debiasing]
+- [[RecAlg][CIKM 23][Webo]MemoNet: Memorizing All Cross Features’ Representations Efficiently via Multi-Hash Codebook Network for CTR Prediction](https://arxiv.org/pdf/2211.01334.pdf) [Note](https://mp.weixin.qq.com/s/7PGf7SLNJ9oHSTYJV72MYg)
+- [[KDD 23][Mei Tuan]A Multi-stage Framework for Online Bonus Allocation Based on Constrained User Intent Detection](https://www.youtube.com/watch?v=go055TZ7cLA)
+- [[AAAI 23][ByteDance]CowClip: Reducing CTR Prediction Model Training Time from 12 hours to 10 minutes on 1 GPU](https://arxiv.org/pdf/2204.06240.pdf)
